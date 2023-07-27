@@ -1,6 +1,6 @@
 # 눈길
 ### 여러분의 새로운 눈이 될게요   
-![눈길 대표 이미지](./images/noongil-dashboard.png)
+![눈길 대표 이미지](https://github.com/Noon-Gil/.github/blob/main/profile/images/noongil-dashboard.png?raw=true)
 ## 눈길은 어떤 서비스인가요?
 눈길은 저시력자, 시각장애인 분들께 인공지능 이미지 인식 기술을 통해 세상을 보여 드리는 앱 서비스입니다.
 
@@ -19,7 +19,7 @@
 눈길이 앞 사람의 표정을 분석합니다.
 
 ## 어떻게 작동하죠?
-![눈길 아키텍처](./images/NoonGil_process.png)
+![눈길 아키텍처](https://github.com/Noon-Gil/.github/blob/main/profile/images/NoonGil_process.png?raw=true)
 눈길은 다양한 클라우드 서비스를 이용하여 이미지를 분석하고, 분석 결과를 가공하여 사용자에게 제공합니다. 다음과 같은 기술들이 적용되어 있습니다.
 - GPT3.5 Turbo를 사용하여, 사용자의 질문에 자연스러운 대화체로 대답을 제공합니다.
 - MS Azure의 computer vision API를 적용하여, 보다 정확한 이미지 캡셔닝(이미지 속 상황을 묘사해주는 기술)을 제공합니다.
