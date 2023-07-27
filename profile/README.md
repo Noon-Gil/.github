@@ -29,4 +29,16 @@
   - Papago Translation은 영어로 이루어진 API 응답을 자연스러운 우리말로 변환합니다.
   - Face Recognition은 얼굴 이미지로부터 닮은꼴의 유명인을 찾고, 감정을 분석합니다.
 
+## 배포 환경
+- 클라이언트(앱)
+  - Target OS: Android
+  - Frameworks: React-Native, Expo
+- 백엔드 서버
+  - VM: MS Azure VM Standard B2s(2개 vcpu, 4GiB 메모리)
+  - OS: Linux (ubuntu 20.04)
+  - Runtime Environment: NodeJS 18.17.0 LTS
+  - FrameWork: ExpressJS
 
+## 팀원
+- 박진아 <a href="https://github.com/pja9362" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+- 하승종 <a href="https://github.com/hippo0419" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
